@@ -7,14 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C706C3EA1FC82C7000AFBA68 /* SinglePlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C706C3E91FC82C7000AFBA68 /* SinglePlayerViewController.swift */; };
+		C71439C11FBD45CB00EC6BB2 /* ManyPlayersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C71439C01FBD45CB00EC6BB2 /* ManyPlayersViewController.swift */; };
+		C71439C31FBD50A300EC6BB2 /* Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C71439C21FBD50A300EC6BB2 /* Functions.swift */; };
+		C71D818D1FC68A1E00F57C72 /* bubblegum in Resources */ = {isa = PBXBuildFile; fileRef = C71D818C1FC68A1D00F57C72 /* bubblegum */; };
+		C71D818F1FC68A7D00F57C72 /* Bubblegum.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C71D818E1FC68A7D00F57C72 /* Bubblegum.ttf */; };
+		C725680A1FC28CCE00B3724D /* CreatePlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C72568091FC28CCE00B3724D /* CreatePlayerViewController.swift */; };
+		C725680C1FC29E6700B3724D /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = C725680B1FC29E6700B3724D /* Player.swift */; };
+		C725680E1FC2A01000B3724D /* CreatePlayer2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C725680D1FC2A01000B3724D /* CreatePlayer2ViewController.swift */; };
 		C745C0911FAC815400EA7DA2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C745C0901FAC815400EA7DA2 /* AppDelegate.swift */; };
 		C745C0931FAC815400EA7DA2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C745C0921FAC815400EA7DA2 /* ViewController.swift */; };
 		C745C0961FAC815400EA7DA2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C745C0941FAC815400EA7DA2 /* Main.storyboard */; };
 		C745C0981FAC815400EA7DA2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C745C0971FAC815400EA7DA2 /* Assets.xcassets */; };
 		C745C09B1FAC815400EA7DA2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C745C0991FAC815400EA7DA2 /* LaunchScreen.storyboard */; };
+		C76CB9771FB01EEC0008F937 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76CB9761FB01EEC0008F937 /* Card.swift */; };
+		C7AD4A831FC3CD0A0064FD68 /* GameOverManyPlayersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7AD4A821FC3CD0A0064FD68 /* GameOverManyPlayersViewController.swift */; };
+		C7D739EE1FB49DD60050A6F0 /* GameOverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D739ED1FB49DD60050A6F0 /* GameOverViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C706C3E91FC82C7000AFBA68 /* SinglePlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SinglePlayerViewController.swift; sourceTree = "<group>"; };
+		C71439C01FBD45CB00EC6BB2 /* ManyPlayersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManyPlayersViewController.swift; sourceTree = "<group>"; };
+		C71439C21FBD50A300EC6BB2 /* Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
+		C71D818C1FC68A1D00F57C72 /* bubblegum */ = {isa = PBXFileReference; lastKnownFileType = folder; path = bubblegum; sourceTree = SOURCE_ROOT; };
+		C71D818E1FC68A7D00F57C72 /* Bubblegum.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Bubblegum.ttf; path = bubblegum/Bubblegum.ttf; sourceTree = "<group>"; };
+		C72568091FC28CCE00B3724D /* CreatePlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatePlayerViewController.swift; sourceTree = "<group>"; };
+		C725680B1FC29E6700B3724D /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
+		C725680D1FC2A01000B3724D /* CreatePlayer2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatePlayer2ViewController.swift; sourceTree = "<group>"; };
 		C745C08D1FAC815400EA7DA2 /* Luck Duel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Luck Duel.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C745C0901FAC815400EA7DA2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C745C0921FAC815400EA7DA2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +41,9 @@
 		C745C0971FAC815400EA7DA2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C745C09A1FAC815400EA7DA2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C745C09C1FAC815400EA7DA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C76CB9761FB01EEC0008F937 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		C7AD4A821FC3CD0A0064FD68 /* GameOverManyPlayersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOverManyPlayersViewController.swift; sourceTree = "<group>"; };
+		C7D739ED1FB49DD60050A6F0 /* GameOverViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOverViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +60,7 @@
 		C745C0841FAC815400EA7DA2 = {
 			isa = PBXGroup;
 			children = (
+				C71D818E1FC68A7D00F57C72 /* Bubblegum.ttf */,
 				C745C08F1FAC815400EA7DA2 /* Luck Duel */,
 				C745C08E1FAC815400EA7DA2 /* Products */,
 			);
@@ -54,10 +77,20 @@
 		C745C08F1FAC815400EA7DA2 /* Luck Duel */ = {
 			isa = PBXGroup;
 			children = (
+				C71D818C1FC68A1D00F57C72 /* bubblegum */,
 				C745C0901FAC815400EA7DA2 /* AppDelegate.swift */,
 				C745C0921FAC815400EA7DA2 /* ViewController.swift */,
 				C745C0941FAC815400EA7DA2 /* Main.storyboard */,
+				C706C3E91FC82C7000AFBA68 /* SinglePlayerViewController.swift */,
+				C71439C21FBD50A300EC6BB2 /* Functions.swift */,
+				C71439C01FBD45CB00EC6BB2 /* ManyPlayersViewController.swift */,
+				C725680B1FC29E6700B3724D /* Player.swift */,
+				C7AD4A821FC3CD0A0064FD68 /* GameOverManyPlayersViewController.swift */,
+				C725680D1FC2A01000B3724D /* CreatePlayer2ViewController.swift */,
+				C7D739ED1FB49DD60050A6F0 /* GameOverViewController.swift */,
+				C76CB9761FB01EEC0008F937 /* Card.swift */,
 				C745C0971FAC815400EA7DA2 /* Assets.xcassets */,
+				C72568091FC28CCE00B3724D /* CreatePlayerViewController.swift */,
 				C745C0991FAC815400EA7DA2 /* LaunchScreen.storyboard */,
 				C745C09C1FAC815400EA7DA2 /* Info.plist */,
 			);
@@ -125,7 +158,9 @@
 			files = (
 				C745C09B1FAC815400EA7DA2 /* LaunchScreen.storyboard in Resources */,
 				C745C0981FAC815400EA7DA2 /* Assets.xcassets in Resources */,
+				C71D818D1FC68A1E00F57C72 /* bubblegum in Resources */,
 				C745C0961FAC815400EA7DA2 /* Main.storyboard in Resources */,
+				C71D818F1FC68A7D00F57C72 /* Bubblegum.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,7 +171,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7D739EE1FB49DD60050A6F0 /* GameOverViewController.swift in Sources */,
+				C725680A1FC28CCE00B3724D /* CreatePlayerViewController.swift in Sources */,
+				C76CB9771FB01EEC0008F937 /* Card.swift in Sources */,
+				C71439C11FBD45CB00EC6BB2 /* ManyPlayersViewController.swift in Sources */,
+				C725680C1FC29E6700B3724D /* Player.swift in Sources */,
+				C706C3EA1FC82C7000AFBA68 /* SinglePlayerViewController.swift in Sources */,
+				C7AD4A831FC3CD0A0064FD68 /* GameOverManyPlayersViewController.swift in Sources */,
 				C745C0931FAC815400EA7DA2 /* ViewController.swift in Sources */,
+				C71439C31FBD50A300EC6BB2 /* Functions.swift in Sources */,
+				C725680E1FC2A01000B3724D /* CreatePlayer2ViewController.swift in Sources */,
 				C745C0911FAC815400EA7DA2 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
