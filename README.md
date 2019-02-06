@@ -1,6 +1,8 @@
 # Luck-Duel
 iOS Application - Luck-based card game
 
+<img src="https://lh3.googleusercontent.com/KOM_4G0aAlWrlIDpYfv6ZIuEqaao2UK4PEKk9aqmA6ZsEh7yH2kf9_nMW3LAwtGbHbMEZDB1E2sIiAaImd8QGFOmFsefg7hDSIYkUa8UCxU3hsg-2xAcNxdBLv0hG4ciLO7lvR2Kx_ePFg1pYURPfRW4pSfdZ9lq_YSGYqWsi2NVf2EMQuE9x7ytU4A9OJutALOJxAtYof6lDzJqg2g4GyY5J92EkZI3T7Eo9OA1MXIE7HP--Cx1Y8-kg5HyKrFLltz2PRqxBJUOAAgFZciGt57JCAMascax9aeQbhXae4fJoNDSf4h9Wj7dF-KAK9zuZxLCkGIgJEaFyyZJbPoO1Bo9clXxoZJj-h0K9f_piiolHtlOuTYNDb6DDtn_77twthxdPd_WQxcY5XExo4LQ3V3knxWpRPWZt8r2_Qbwmox0La0zaD0wixQXQbvwmoxrLkT_skEHxdqDqwuWqFbn2zdSA8loTuPI8rbgyCjJIVczQ4s1No2OEmPOq44JSavM1WdC70fr2m2CEtEYQzLZIjOaYkYaI37BR6_Plwz-F9nPSNcEHUFTKfBQleno0dNiZpE7cbVs-8Kyvgadbs1YAA_Fz4nVlkWEnNuTXn-Jrz-CLfE9BZU-__HF2Z5WGoI2ZVXg9Amb513yx-ab7HeW45S6YNtaDnLC7JtW7Loq7lHZSUyobDoh1hRB6Zi11BncsuMrYkxzCObASp3G7i3x2wWrLQ=w430-h929-no" height="600" weight="250" alt="Luck Duel">
+
 Project from the Mobile Software Project Class. Our team was Sang-Won Kim, Hyung-Tae Figur, Byung-Joo Park, Seung-Pil W. Coleman.
 
 ## Summary
