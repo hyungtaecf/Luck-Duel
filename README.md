@@ -31,7 +31,7 @@ On Single Player Mode, you accumulate score by choosing other cards than Jokers.
 
 ## Skills
 
-- Programming in the XCode Application for Mac
+- Programming on XCode for Mac
 - Learning and application of Swift language
 - Mobile application development
 - Uploading to AppStore
